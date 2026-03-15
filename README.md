@@ -26,8 +26,8 @@ Para executar esse programa é preciso ter instalado o Python.
 ## Como usar
 
 ### Estrutura e importação
-1. Clone para este projeto na pasta desejada;
-2. Se certifique que os arquivos 'vetorizador.py' e 'teste.py' (pode ser criado um arquivo diferente, explicado melhor na seção 'Novo arquivo de teste') estejam na mesma pasta;
+1. Clone este projeto na pasta desejada;
+2. Certifique-se que os arquivos 'vetorizador.py' e 'teste.py' (pode ser criado um arquivo diferente, explicado melhor na seção 'Novo arquivo de teste') estejam na mesma pasta;
 3. Execute o arquivo 'teste.py'.
 
 ### Novo arquivo de teste
